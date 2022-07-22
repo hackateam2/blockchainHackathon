@@ -75,7 +75,7 @@
 
                         <div class="mb-3">
                           <label class="fomr-label">Tax Identification Number</label>
-                          <input type="text" id='TIN' name='number' class='form-control' placeholder='Tax Identification Number'>
+                          <input type="text" id='TIN' name='number' class='form-control' placeholder='0025874659' disabled>
                         </div>
                         <div class="mb-3">
                           <label class="fomr-label">Amount in ETH</label>
