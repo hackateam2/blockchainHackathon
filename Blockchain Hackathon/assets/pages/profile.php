@@ -109,6 +109,10 @@ else{
                       <input type="tel" class='form-control' name='cnumber' placeholder='0725587744'>
                     </div>
                     <div class="mb-3">
+                      <label class="fomr-label">Wallet Address</label>
+                      <input type="tel" class='form-control' name='cnumber' placeholder='0x254928DBe5C8eB83810742b36cd54b925d5C11F4'>
+                    </div>
+                    <div class="mb-3">
                       <label class="fomr-label">Password</label>
                       <input type="password" class='form-control' name='password' placeholder='*******'>
                     </div>
