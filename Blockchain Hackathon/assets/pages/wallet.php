@@ -1,1 +1,0 @@
-<!-- Create a wallet for businesses and individuals -->
